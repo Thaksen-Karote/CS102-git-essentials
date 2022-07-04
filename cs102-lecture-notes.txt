@@ -12,3 +12,16 @@
 
 5. git push
 - To push the changes commited to the server repository.
+
+Setting up GitHub environment...
+
+Execute this command to check whether git is installed. 
+git --version
+
+Execute these commands to add credentials:
+git config --global user.name 'Name'
+git config --global user.email 'Email'
+git config --global core.autocrlf input
+git config --global core.safecrlf true
+
+Setting up SSH Key pair...
