@@ -1,0 +1,14 @@
+1. git remote -v
+- To check whether the remote origin is already be setup.
+
+2. git add file_name.extension
+- To add file created in the local repository.
+
+3. git add .
+- To add all files in the current directory.
+
+4. git status
+- To see current status of repository.
+
+5. git push
+- To push the changes commited to the server repository.
